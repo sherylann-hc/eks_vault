@@ -36,6 +36,7 @@ Review variables.tf
 Note: If you choose to change the region of deployment and intend to use the Cloud Shell to access the Kubernetes cluster later on, the Cloud Shell is only available in selected regions! https://docs.aws.amazon.com/cloudshell/latest/userguide/faq-list.html#regions-available
 
 Add Environment Variables
+Retrieve your keys here: https://console.aws.amazon.com/iam/home?#security_credential
 * AWS_ACCESS_KEY_ID 
 * AWS_SECRET_ACCESS_KEY 
 
